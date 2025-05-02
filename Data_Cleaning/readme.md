@@ -28,3 +28,8 @@ Here for the missing value of B, we are checking A and C as K=2 meaning, we need
 Then we got 3 and 8 as their value and average that to get 5.5
 
 2. ColumnTransformer
+
+Using ColumnTransformer, now you can use KNNI or others. It's mostly used.
+
+
+Now practice, using practice.ipynb and check solution (practice_solution.ipynb) if needed
